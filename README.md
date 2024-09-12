@@ -43,12 +43,16 @@
 
 
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="naufalh27" /></p>
 
-<img src="https://github.com/user-attachments/assets/3932c920-4627-4f89-8cd1-5c436bdc3499" alt="image" width="100%"/>
-<img src="https://github.com/user-attachments/assets/079586e4-5689-4959-af2d-823b2cfc478" alt="image" width="100%"/>
+
+### Some Anime :3
+<img src="https://github.com/user-attachments/assets/cd365dee-a851-4ef1-9adc-6b0ffb860b9f" alt="image" width="100%"/>
+
+
+
 
 
 
