@@ -8,6 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalH27.NaufalH27" />
   <a href="https://github.com/NaufalH27"><img src="https://img.shields.io/github/followers/NaufalH27?label=followers&style=social"/></a>
 </p><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align=center height="500px">| Backend | Computer Science Student |</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -28,38 +29,39 @@
   <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">
 </a>&nbsp;
 <br>
-
-<br>
-
-### Skill Sets:
-#### Programming Language
-[![My Programming Languages](https://skillicons.dev/icons?i=python,java,javascript,c,cpp)](https://skillicons.dev)
-<br>
-#### Backend
-[![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi)](https://skillicons.dev)
-<br>
-#### DevOps
-[![My Devops Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-<br>
-#### Database
-[![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
 <br>
 <br>
 
-### Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8" alt="image" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="image"width="45%" />
-</p>
+# Skill Sets:
+
+<p><h3>Programming Language</h3><img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" alt="My Programming Languages"></p>
+<p><h3>Backend</h3><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" alt="My Backend Skills"></p>
+<p><h3>DevOps</h3><img src="https://skillicons.dev/icons?i=docker" alt="My Devops Skills"></p>
+<p><h3>Database</h3><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="My Database Skills"></p>
+
 
 <br>
+<br>
 
-### Some Anime :3
+# Statistics
+### Most Used Language
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8" alt="image" width = "50%" />
+
+### Guthub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="image" width = "50%" />
+
+
+<br>
+<br>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cd365dee-a851-4ef1-9adc-6b0ffb860b9f" alt="image" width="85%"/>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+### :3
 
 
 
