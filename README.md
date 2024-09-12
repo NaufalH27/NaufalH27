@@ -4,11 +4,14 @@
   NaufalH27
 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=naufalh27&label=Profile%20views&color=0e75b6&style=flat" alt="naufalh27" />
+<p align="center" padding-left = 30px> <img src="https://komarev.com/ghpvc/?username=naufalh27&label=Profile%20views&color=0e75b6&style=flat" alt="naufalh27" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalH27.NaufalH27" />
   <a href="https://github.com/NaufalH27"><img src="https://img.shields.io/github/followers/NaufalH27?label=followers&style=social"/></a>
 </p><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align=center height="500px">| Backend | Computer Science Student |</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ### About Me 
 - 👋 My name is `Naufal Hisyam M`
@@ -16,6 +19,7 @@
 - 🎓 Undergraduate `Computer Science` Student at `Universitas Sebelas Maret`
 - 🌐 Languages: `Bahasa Indonesia`, `English`
 - 🎮 Hobby: `Anime`, `Manga`, `Gacha Games`
+
 
 ### Socials
  <a href="https://web.facebook.com/profile.php?id=100065238259108" style="text-decoration: none;">
@@ -25,31 +29,35 @@
 </a>&nbsp;
 <br>
 
-
-
+<br>
 
 ### Skill Sets:
 #### Programming Language
 [![My Programming Languages](https://skillicons.dev/icons?i=python,java,javascript,c,cpp)](https://skillicons.dev)
-
+<br>
 #### Backend
 [![My Backend Skills](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi)](https://skillicons.dev)
-
+<br>
 #### DevOps
 [![My Devops Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
+<br>
 #### Database
 [![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
-
+<br>
+<br>
 
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="image"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8" alt="image" height="195px"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="naufalh27" /></p>
-
+<br>
 
 ### Some Anime :3
-<img src="https://github.com/user-attachments/assets/cd365dee-a851-4ef1-9adc-6b0ffb860b9f" alt="image" width="100%"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd365dee-a851-4ef1-9adc-6b0ffb860b9f" alt="image" width="85%"/>
+</p>
 
 
 
