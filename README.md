@@ -4,10 +4,13 @@
   NaufalH27
 </h1>
 
-<p align="center" padding-left = 30px> <img src="https://komarev.com/ghpvc/?username=naufalh27&label=Profile%20views&color=0e75b6&style=flat" alt="naufalh27" />
+<p align="center" padding-left="30px">
+  <img src="https://komarev.com/ghpvc/?username=naufalh27&label=Profile%20views&color=0e75b6&style=flat" alt="naufalh27" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalH27.NaufalH27" />
-  <a href="https://github.com/NaufalH27"><img src="https://img.shields.io/github/followers/NaufalH27?label=followers&style=social"/></a>
-</p><br>
+  <a href="https://github.com/NaufalH27"><img src="https://img.shields.io/github/followers/NaufalH27?label=followers&style=social" alt="Followers"/></a>
+  <a href="https://github.com/NaufalH27"><img src="https://img.shields.io/github/stars/NaufalH27?label=Stars&style=social" alt="GitHub Stars"/></a>
+</p>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align=center height="500px">| Backend | Computer Science Student |</h3>
@@ -45,10 +48,10 @@
 
 # Statistics
 ### Most Used Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8" alt="image" width = "50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8" alt="image" width = "45%" />
 
 ### Guthub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="image" width = "50%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="image" width = "45%" />
 
 
 <br>
