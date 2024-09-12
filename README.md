@@ -1,6 +1,4 @@
-
-
-
+<img src="https://github.com/user-attachments/assets/4f237f12-17d4-4e2d-a69c-04cd87ab32eb" alt="image" width="100%"/>
 
 <h1 class="large-heading" align="center">
   NaufalH27
@@ -8,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naufalh27&label=Profile%20views&color=0e75b6&style=flat" alt="naufalh27" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalH27.NaufalH27" />
-  <a href="https://github.com/tfkhdyt"><img src="https://img.shields.io/github/followers/NaufalH27?label=followers&style=social"/></a>
+  <a href="https://github.com/NaufalH27"><img src="https://img.shields.io/github/followers/NaufalH27?label=followers&style=social"/></a>
 </p><br>
 
 
@@ -28,14 +26,6 @@
 <br>
 
 
-### Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufalh27&show_icons=true&locale=en&layout=compact" alt="naufalh27" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalh27&show_icons=true&locale=en" alt="naufalh27" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="naufalh27" /></p>
-<br>
-
 
 
 ### Skill Sets:
@@ -50,6 +40,15 @@
 
 #### Database
 [![My Database Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=6)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="naufalh27" /></p>
+
+<img src="https://github.com/user-attachments/assets/3932c920-4627-4f89-8cd1-5c436bdc3499" alt="image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/079586e4-5689-4959-af2d-823b2cfc478" alt="image" width="100%"/>
 
 
 
