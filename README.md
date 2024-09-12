@@ -48,8 +48,8 @@
 
 ### Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="image"width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8" alt="image" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="image"width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8" alt="image" width="40%"/>
 </p>
 
 <br>
