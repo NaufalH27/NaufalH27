@@ -1,7 +1,6 @@
 <img src="https://github.com/user-attachments/assets/4f237f12-17d4-4e2d-a69c-04cd87ab32eb" alt="image" width="100%"/>
 
 <h1 class="large-heading" align="center">
-  NaufalH27
 </h1>
 
 <p align="center" padding-left="30px">
