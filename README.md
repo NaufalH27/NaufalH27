@@ -22,7 +22,7 @@
 - 🎓 Undergraduate `Computer Science` Student at `Universitas Sebelas Maret`
 - 🌐 Languages: `Bahasa Indonesia`, `English`
 - 🎮 Hobby: `Anime`, `Manga`, `Gacha Games`
-- 📚 Im Interested in: `Software Architecture`, `Databases`
+- 📚 Im Interested in: `Software Architecture`,`System Design` and `Databases`
 
 
 ### Socials
