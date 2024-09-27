@@ -17,7 +17,7 @@
 <br>
 
 ### About Me 
-- 👋 My name is `Naufal Hisyam M`
+- 👋 Hi, My name is `Naufal Hisyam M`
 - 🌏 I'm from `Indonesia`
 - 🎓 Undergraduate `Computer Science` Student at `Universitas Sebelas Maret`
 - 🌐 Languages: `Bahasa Indonesia`, `English`
