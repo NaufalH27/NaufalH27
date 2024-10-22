@@ -21,7 +21,7 @@
 - 🌏 I'm from `Indonesia`
 - 🎓 Undergraduate `Computer Science` Student at `Universitas Sebelas Maret`
 - 🌐 Languages: `Bahasa Indonesia`, `English`
-- 🎮 Hobby: `Rhtym Game`, `Linux Ricing`, `Anime`, `Manga`, and `Gacha Games`
+- 🎮 Hobby: `Rhythm Game`, `Linux Ricing`, `Anime`, `Manga`, and `Gacha Games`
 - 📚 Im Interested in: `Software Architecture`,`System Design` and `Databases`
 
 
