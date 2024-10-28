@@ -19,10 +19,8 @@
 ### About Me 
 - 👋 Hi, My name is `Naufal Hisyam M`
 - 🌏 I'm from `Indonesia`
-- 🎓 Undergraduate `Computer Science` Student at `Universitas Sebelas Maret`
-- 🌐 Languages: `Bahasa Indonesia`, `English`
-- 🎮 Hobby: `Rhythm Game`, `Linux Ricing`, `Anime`, `Manga`, and `Gacha Games`
-- 📚 Im Interested in: `Software Architecture`,`System Design` and `Databases`
+- 🎮 Hobby: `Rhythm Game`, `Linux Ricing`, `Anime`, and `Manga`
+- 📚 Im Interested in: `Software Architecture`,`System Design` and `Backend Developement`
 
 
 ### Socials
