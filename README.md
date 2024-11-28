@@ -66,4 +66,4 @@
 ### :3
 
 
-uggghhh i want to vomit, the college assignments from my university are too much, help!!!!!!!
+uggghhh i want to vomit, assignments from my university are too much, help!!!!!!!
