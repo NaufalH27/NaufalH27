@@ -23,36 +23,12 @@
 - 📚 Im Interested in: `Software Architecture`,`System Design` and `Backend Developement`
 
 
-### Socials
+### Contact Me
  <a href="https://web.facebook.com/profile.php?id=100065238259108" style="text-decoration: none;">
     <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" /></a>&nbsp; 
 <a href="https://www.linkedin.com/in/naufal-h-457774294/" align="center">
   <img height="28" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg">
 </a>&nbsp;
-<br>
-<br>
-<br>
-
-# Skill Sets:
-
-<p><h3>Programming Language</h3><img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp" alt="My Programming Languages"></p>
-<p><h3>Backend</h3><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" alt="My Backend Skills"></p>
-<p><h3>DevOps</h3><img src="https://skillicons.dev/icons?i=docker" alt="My Devops Skills"></p>
-<p><h3>Database</h3><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="My Database Skills"></p>
-
-
-<br>
-<br>
-<br>
-
-# Statistics
-### Most Used Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalH27&layout=compact&hide=html,css&langs_count=8" alt="image" width = "45%" />
-
-### Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalh27&" alt="image" width = "45%" />
-
-
 <br>
 <br>
 <br>
