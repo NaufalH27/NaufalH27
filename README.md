@@ -1,15 +1,6 @@
 <img src="https://github.com/user-attachments/assets/4f237f12-17d4-4e2d-a69c-04cd87ab32eb" alt="image" width="100%"/>
 
-<h1 class="large-heading" align="center">
-</h1>
 
-<p align="center" padding-left="30px">
-  <img src="https://komarev.com/ghpvc/?username=naufalh27&label=Profile%20views&color=0e75b6&style=flat" alt="naufalh27" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalH27.NaufalH27" />
-  <a href="https://github.com/NaufalH27"><img src="https://img.shields.io/github/followers/NaufalH27?label=followers&style=social" alt="Followers"/></a>
-  <a href="https://github.com/NaufalH27"><img src="https://img.shields.io/github/stars/NaufalH27?label=Stars&style=social" alt="GitHub Stars"/></a>
-</p>
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align=center height="500px">| Backend | Computer Science Student |</h3>
