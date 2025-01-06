@@ -33,11 +33,5 @@
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cd365dee-a851-4ef1-9adc-6b0ffb860b9f" alt="image" width="85%"/>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### :3
 
