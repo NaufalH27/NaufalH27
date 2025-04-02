@@ -9,6 +9,10 @@
 - 🌏 I'm from `Indonesia`
 - 🎮 My Hobby: `Rhythm Games`, `Gacha Games`, `Linux Ricing`, `Anime`, and `Manga`
 - 📚 What Im Currently Interested in: `Software Architecture`,`System Design` and `Backend Developement`
+- 🥒 Mutsumi is my wife  <img height="40" src="https://github.com/user-attachments/assets/e4f22836-a3af-482a-85c2-a01a059ac520"><img height="40" src="https://github.com/user-attachments/assets/e4f22836-a3af-482a-85c2-a01a059ac520">
+
+
+
 
 
 ### feel free to reach me out :)
