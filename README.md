@@ -19,7 +19,7 @@
 </a>&nbsp;
 <br>
 <br>
-or you can email me :
+or you can email me : naufalhisyammm@student.uns.ac.id
 
 
 <br>
