@@ -4,12 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-### Introduction 
-- 👋 Hi, im `Naufal Hisyam M`, you can call me `Naufal`  
-- 🌏 I'm from `Indonesia`
-- 🎮 My Hobby: `Rhythm Games`, `Gacha Games`, `Linux Ricing`, `Anime`, and `Manga`
-- 📚 What Im Currently Interested in: `Software Architecture`,`System Design` and `Backend Developement`
-- 🥒 Mutsumi is my wife  <img height="40" src="https://github.com/user-attachments/assets/e4f22836-a3af-482a-85c2-a01a059ac520"><img height="40" src="https://github.com/user-attachments/assets/e4f22836-a3af-482a-85c2-a01a059ac520">
+Mutsumi is my wife  <img height="40" src="https://github.com/user-attachments/assets/e4f22836-a3af-482a-85c2-a01a059ac520"><img height="40" src="https://github.com/user-attachments/assets/e4f22836-a3af-482a-85c2-a01a059ac520">
 
 
 
