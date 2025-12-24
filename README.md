@@ -16,7 +16,7 @@ Mutsumi is my wife  <img height="40" src="https://github.com/user-attachments/as
 </a>&nbsp;
 <br>
 <br>
-or you can email me : naufalhisyammm@student.uns.ac.id
+or you can email me : naufalhmuzakki@gmail.com
 
 
 <br>
